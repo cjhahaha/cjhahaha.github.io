@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.com/cjhahaha/personal-website/static/css/main.a7171004.chunk.css",
+    "main.js": "/github.com/cjhahaha/personal-website/static/js/main.f536e5ac.chunk.js",
+    "main.js.map": "/github.com/cjhahaha/personal-website/static/js/main.f536e5ac.chunk.js.map",
+    "runtime-main.js": "/github.com/cjhahaha/personal-website/static/js/runtime-main.d27ed4b7.js",
+    "runtime-main.js.map": "/github.com/cjhahaha/personal-website/static/js/runtime-main.d27ed4b7.js.map",
+    "static/js/2.6fef8c2a.chunk.js": "/github.com/cjhahaha/personal-website/static/js/2.6fef8c2a.chunk.js",
+    "static/js/2.6fef8c2a.chunk.js.map": "/github.com/cjhahaha/personal-website/static/js/2.6fef8c2a.chunk.js.map",
+    "index.html": "/github.com/cjhahaha/personal-website/index.html",
+    "precache-manifest.2563e83033dd8b5000ca4bea9cc26aba.js": "/github.com/cjhahaha/personal-website/precache-manifest.2563e83033dd8b5000ca4bea9cc26aba.js",
+    "service-worker.js": "/github.com/cjhahaha/personal-website/service-worker.js",
+    "static/css/main.a7171004.chunk.css.map": "/github.com/cjhahaha/personal-website/static/css/main.a7171004.chunk.css.map",
+    "static/js/2.6fef8c2a.chunk.js.LICENSE.txt": "/github.com/cjhahaha/personal-website/static/js/2.6fef8c2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d27ed4b7.js",
+    "static/js/2.6fef8c2a.chunk.js",
+    "static/css/main.a7171004.chunk.css",
+    "static/js/main.f536e5ac.chunk.js"
+  ]
+}
